@@ -55,3 +55,5 @@ while conditon == True :
 
     # Python 1 Liner for the same conditons
     conditon = True if input("Do you want to try again? (Y/N): ") == 'Y' else False
+    print("Hope you glad to know about your horoscope")
+    print("Hope you will come back to us soon")
